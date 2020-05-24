@@ -1,2 +1,2 @@
 # cs50
-delivery room for music
+cs50 python & javascript
